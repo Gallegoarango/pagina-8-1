@@ -2,23 +2,96 @@
 
 .texto{
    
-    font-size: 50px;
+    font-size: 40px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(20, 20, 20);
+    color: rgb(114, 2, 2);
+
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url("fondos.jpg");
+    background-image: url("pintura-montana-lago-montanas-fondo_1053688-135.avif");
     
 
 }
 .titulo{
 font-size: 50px;
 text-align: center;
+ 
+}
+
+.imgn2{
+     height: 2000px;
+     width: 1300px;
+     background-image: url("Captura\ de\ pantalla_20-10-2024_181838_.jpeg");
+     background-repeat: no-repeat;
+     float: center;
+}
+
+.imgtec3{
+
+    height: 370px;
+    width: 650px;
+    background-image: url("excel\ png.jpg");
+    background-repeat: no-repeat;
+    float: right;
 
 }
+
+ .imgtec4{
+
+    height: 1300px;
+    width: 1000px;
+    background-image: url("excel\ 2\ png.png");
+    background-repeat: no-repeat;
+    float: center;
+
+ }
+
+.imgtsoc1{
+
+    height: 650px;
+    width: 1800px;
+    background-image: url("mapa\ conceptual.jpeg");
+    background-repeat: no-repeat;
+    float: right;
+
+
+   
+
+
+ } 
+
+.imging1{
+
+    height: 1300px;
+    width: 1600px;
+    background-image: url("la\ paz\ jpng.png");
+    background-repeat: no-repeat;
+    float: left;
+
+
+
+
+}
+
+.conta1{
+    height: 800px;
+    width: 750px;
+    background-image: url("box\ jnpg.png");
+    background-repeat: no-repeat;
+    float: center;
+
+
+
+
+}
+
+
+
+
+
 
